@@ -1,6 +1,5 @@
 Egypt Quiz
 
-Overview
 The Egypt Quiz is an interactive C# application designed to test and expand the user's knowledge about Egypt. This project demonstrates my ability to build engaging and dynamic quiz applications using structured programming, user interface design, and file handling techniques. Initially created as a coursework project, it now serves as an example of my programming skills and understanding of application flow.
 
 The quiz allows users to:
